@@ -1,0 +1,13 @@
+[project]
+name = "hermes-plugin-structkit"
+version = "0.1.0"
+description = "Hermes plugin for StructKit project scaffolding workflows"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "httpdss" }]
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-q"

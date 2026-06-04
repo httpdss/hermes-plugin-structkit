@@ -1,0 +1,14 @@
+manifest_version: 1
+name: structkit
+version: 0.1.0
+description: Hermes plugin for StructKit project scaffolding workflows with safe previews, validation, and generation.
+author: httpdss
+kind: backend
+homepage: https://github.com/httpdss/hermes-plugin-structkit
+provides_tools:
+  - structkit_list
+  - structkit_info
+  - structkit_vars
+  - structkit_validate
+  - structkit_preview
+  - structkit_generate
