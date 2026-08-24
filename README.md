@@ -1,8 +1,6 @@
-# hermes-plugin-structkit
+# Hermes plugin for StructKit
 
-Hermes plugin for [StructKit](https://structkit.app/) project scaffolding workflows.
-
-This plugin exposes StructKit's YAML-based scaffolding capabilities as Hermes-native tools with safety-first defaults: inspect templates, validate YAML, preview dry-run diffs, and only generate files after explicit confirmation.
+Companion to [StructKit](https://github.com/httpdss/structkit). Hermes tools to list, preview, and generate with confirm-before-write. Star the [core repo](https://github.com/httpdss/structkit).
 
 ## Tools
 
