@@ -5,7 +5,7 @@ description = "Hermes plugin for StructKit project scaffolding workflows"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [{ name = "httpdss" }]
-license = { text = "MIT" }
+license = { text = "Apache-2.0" }
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
